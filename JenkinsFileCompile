@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Github') {
             steps {
-                git branch: 'main', url: 'https://github.com/gpalabral/CICD.git'
+                git branch: 'main', url: 'https://github.com/Renevc14/CICD.git'
             }
         }
         stage('Clean Compile'){
