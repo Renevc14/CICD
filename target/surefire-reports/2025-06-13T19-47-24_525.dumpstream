@@ -1,0 +1,5 @@
+# Created at 2025-06-13T19:47:24.880
+Boot Manifest-JAR contains absolute paths in classpath 'F:\CURSOS\Maestria_FullStack\Diplomado_FullStack\Mod4 Integracion Continua\dia 2\CICD\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
