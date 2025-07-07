@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Hoy es 13 de Junio de 2025 7:52pm por Rene Vilela" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Hoy es 06 de Julio de 2025 7:52pm por Rene Vilela" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
