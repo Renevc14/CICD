@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Hoy es 06 de Julio de 2025 11:15pm por Rene Vilela Commit para GH actions" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Hoy es 06 de Julio de 2025 11:19pm por Rene Vilela Commit para GH actions" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
