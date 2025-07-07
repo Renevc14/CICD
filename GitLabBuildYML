@@ -1,0 +1,12 @@
+stages:
+    - build
+
+build-job:
+    image: maven:3-jdk-8
+    stage: build
+    script:
+        - echo "Compilando proyecto"
+        - "mvn clean compile test package -B"
+    artifacts:
+        path:
+            - target/*.war
