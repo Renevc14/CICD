@@ -44,4 +44,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: renevc14/cicddockerimagegithubactions2025par2:latests
+        tags: renevc14/cicddockerimagegithubactions2025par2:latest
